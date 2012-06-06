@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <item type="id" name="text_only_button" />
+    <item type="id" name="icon_only_button" />
+    <item type="id" name="text_icon_button" />
+    <item type="id" name="toast_length"/>
+</resources>
